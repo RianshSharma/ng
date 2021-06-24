@@ -1,0 +1,28 @@
+div {
+    border: solid 2px black;
+    margin: auto;
+    height: 500px;
+    width: 800px;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+p {
+    text-align: justify;
+    line-height: 30px;
+    word-spacing: 2px;
+    letter-spacing: 1;
+    color: brown;
+}
+
+h1 {
+    color: coral;
+}
+
+h3 {
+    color: blue;
+}
+
+body {
+    background-color: lightblue;
+}
